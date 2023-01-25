@@ -7,16 +7,12 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Ping Dashboard<small class="flow-left">Beta</small>
+          Travis Dashboard
         </h1>
       </div>
     </b-link>
-
-    <p class="mb-1">
-      Ping Dashboard is not just an explorer but also a wallet and more ... 🛠
-    </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains 🚀
+      Secure, Reliable, High Uptime & never come to jail 🔥
     </h2>
 
     <div>
