@@ -172,7 +172,7 @@ export default {
         const index = localStorage.getItem(`${chain.chain_name}-api-index`) || 0
         const host = Array.isArray(chain.api) ? chain.api[index] : chain.api
         fetch(`${host}/blocks/latest`).then(res => res.json()).then(b => {
-          const { header } = b.block
+          const { header } = b.blockgit
           this.$set(chain, 'height', header.height)
           this.$set(chain, 'time', toDay(header.time))
           this.$set(chain, 'variant', timeIn(header.time, 3, 'm') ? 'danger' : 'success')
