@@ -7,12 +7,12 @@
         <h1
           class="text-primary display-4 font-weight-bolder d-none d-md-block"
         >
-          Travis Dashboard
+          Travis Explorer
         </h1>
       </div>
     </b-link>
     <h2 class="mb-3">
-      Secure, Reliable, High Uptime & never come to jail 🔥
+      We never come to jail 🔥
     </h2>
 
     <div>
